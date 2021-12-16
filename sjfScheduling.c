@@ -1,4 +1,3 @@
-#include<stdio.h>
 #include<stdlib.h>
 
 struct process{                                            // Each process is denoted by a structure object.
